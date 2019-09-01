@@ -4,3 +4,5 @@ Alejandro tiene 23 años y nacio en Durango,
 viviendo en Colombia 10 
 
 Alejandro estudia Ing. en Sistemas Computacionales
+
+Hoy hablaremos de su vida
