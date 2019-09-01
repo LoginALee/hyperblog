@@ -1,5 +1,6 @@
 Esta es una historia muy bonita 
 
-Alejandro tiene 22 años y nacio en Durango
+Alejandro tiene 23 años y nacio en Durango,
+viviendo en Colombia 10 
 
 Alejandro estudia Ing. en Sistemas Computacionales
