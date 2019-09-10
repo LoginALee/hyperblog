@@ -3,4 +3,6 @@ Esta es una historia muy bonita
 Alejandro tiene 22 años y nacio en Durango
 El necesita un pastel de queso
 Sanchito es una persona que contribuye en este proyecto open source
+Master 1
+
 Mañana nos enfocaremos en su vida laboral
