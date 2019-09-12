@@ -7,5 +7,6 @@ Un blog para el curso de Git y Github de Platzi
 * Flujo de trabajo profesional
 * Trabajar con Github
 * Creado por Alejandro 
+* Incluye ejemplos en Windows, Linux y Mac
 ## Enlace del curso
 https://platzi.com/clases/git-github/
