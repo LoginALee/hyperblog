@@ -6,6 +6,6 @@ Un blog para el curso de Git y Github de Platzi
 * Comandos basicos de Git
 * Flujo de trabajo profesional
 * Trabajar con Github
-
+* Creado por Alejandro 
 ## Enlace del curso
 https://platzi.com/clases/git-github/
